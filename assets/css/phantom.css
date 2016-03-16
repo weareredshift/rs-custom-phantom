@@ -146,8 +146,9 @@ strong {
 	line-height:0;
 }
 .brand img {
-	width:auto;
-	height:30px;
+	height: auto;
+	position: relative;
+	top: 5px;
 }
 .content {
 	line-height:90px;
